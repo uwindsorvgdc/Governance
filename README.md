@@ -1,2 +1,2 @@
 # Governance
-Regulations passed by the Board, the Presidentr, and other Board Heads.
+Regulations passed by the Board, the President, and other Board Heads.
