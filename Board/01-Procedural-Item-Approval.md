@@ -34,4 +34,4 @@
 9. It is not a failure of the Speaker if they neglect to seek unanimous consent on a Procedural Action.
 10. For greater certainty, if unanimous consent is sought and granted for a Substantive Action, the action is not considered approved.
 11. It is not a failure of the Speaker if they negligently seak unanimous consent on a Substantive Action, unless they actually knew, or should have known the action was considered substantive. 
-12. For greater certainty, objections raised by members not in attendance do not impact the ability to obtain unanimous consent.
+12. For greater certainty, objections raised by non-members in attendance do not impact the ability to obtain unanimous consent.
