@@ -5,10 +5,10 @@
 ## Definitions
 
 2. VGDC shall mean the University of Windsor Video Game Design Club
-3. President shall mean the President of VGDC
-4. Treasurer shall mean the Treasurer of VGDC
-5. Head of Events shall mean the Head of Events of the Board of VGDC
-6. Head of Community shall mean the Head of Community of the Board of VGDC
+3. President shall mean the President of the VGDC
+4. Treasurer shall mean the Treasurer of the VGDC
+5. Head of Events shall mean the Head of Events of the Board of the VGDC
+6. Head of Community shall mean the Head of Community of the Board of the VGDC
 7. Student Group shall mean any Student Group at the University of Windsor as defined by the University of Windsor Student Association (UWSA), other than the VGDC, and shall include any other Club or any Society, but shall not include the UWSA.
 
 
