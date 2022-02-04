@@ -1,6 +1,6 @@
 # Interaction with Student Groups with Purpose
 
-1. Where the constitution leaves sole authority for interaction with other Student Groups at the University of Windsor is left with the Vice President, the Vice President makes the following regulation.
+1. Where the constitution leaves sole authority for interaction with other Student Groups at the University of Windsor with the Vice President, the Vice President makes the following regulation with respect to that authority and the delegation of exercise of that authority.
 
 ## Definitions
 
