@@ -6,11 +6,11 @@
 
 ## §1 Regulation Proposing Constitutional Amendment
 
-3. Any member of the Board, Executive, or any General Member may bring to the Board a Regulation Proposing a Constitutional Amendment, which may then be considered by the Board as follows, by ratification thereof does not constitute an actual Constitutional Amendment or Change.
+3. Any member of the Board, Executive, or any General Member may bring to the Board a Regulation Proposing a Constitutional Amendment, which may then be considered by the Board as follows, but ratification thereof does not constitute an actual Constitutional Amendment or Change.
 4. In order to procedure on a Regulation Proposing a Constitutional Amendment, the Board shall as a procedural action, approve and then table on first reading, the Regulation. A discussion of that regulation shall then be entered into the Agenda of the subsequent meeting by the Presiding Officer and a note of the approval in the minutes. 
 5. At the subsequent meeting, the board may consider the Regulation, and if it meets its approval, may as a substantive action approve it finally. Otherwise, a simple majority may dispose of it as a procedural action. 
 6. Announcement: Upon approval on first reading, the Board *shall* direct the Head of Community to notify in a manner of their choosing, the General Members of the Board of the Regulation and offer opportunity to comment. 
-7. Departure: If the Board may choose to depart from the procedure in this section, the speaking *shall* on petition, permit the board directly to final consideration as a substantive action. If the Board does so, then upon approval on final consideration, the Board *shall* direct the Head of Community to issue notice of the same to the general members, including notice of the departure. 
+7. Departure: If the Board may choose to depart from the procedure in this section, the speaker *shall* on petition, permit the board directly to final consideration as a substantive action. If the Board does so, then upon approval on final consideration, the Board *shall* direct the Head of Community to issue notice of the same to the general members, including notice of the departure. 
 8. Departure: At the discretion of the Board or the Speaker, approval on first reading may be considered as a substantive action, rather than procedural. Further, at the discretion of the Board, approval on final consideration may be offered as a procedural action.
 
 ## §2 Preparation of the Amendment
