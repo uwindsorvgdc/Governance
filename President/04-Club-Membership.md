@@ -8,7 +8,7 @@
 3. The Discord shall mean the Official Discord Server of the VGDC or such other Primary Forum of Communication as may be Designated by the Head of Community, in which the VGDC primarily conducts Business.
 4. Moderator shall mean the Head of Community or any person appointed by the Head of Community as a Moderator.
 5. Moderation Policy shall include Rules set by the Moderators or the Head of Community, or Regulation made by the Head of Community reguarding conduct on the Discord or Moderation of the Discord
-6. Discriminatory Policy shall mean a Moderation Policy that is inconsistent with Article 1 - Section 5 of the VGDC Constitution, or that is applied by the Moderators in a manner inconsistent with Article 1 - Section 5 of the VGDC Constitution
+6. Discriminatory Policy shall mean a Moderation Policy that is inconsistent with Article 1 - Section 4 of the VGDC Constitution, or that is applied by the Moderators in a manner inconsistent with Article 1 - Section 4 of the VGDC Constitution
 7. "Real Name" shall mean the name of a person which is the name on Record with the Unviersity of Windsor or such other name as the President or a Delegate has a
 authorized that person to use in the context of official Business of the VGDC.
 8. A Ban shall mean a punitive measure taken by a Moderator and designed or intended to remove a person from the Discord and prevent that person from rejoining and shall include both temporary and permanent bans.
