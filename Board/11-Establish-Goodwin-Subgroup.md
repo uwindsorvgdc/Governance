@@ -27,6 +27,9 @@
 13. The Head of Development shall interpret in good faith whether a rule, policy, or action is inconsistent with the provisions of this section, but the board may make superior decisions reguarding interpretation thereof.
 14. The Head of Development may set rules for the protection of members of the subgroup from discrimination, provided those rules are applied in a manner consistent with Article I - Section 4(13). 
 
+## Reports
+
+15. The Head of Operations shall report to the President Reguarding the Group, including any progrss made, on a regular basis.
 
 ## Schedule 1 - Description of Subgroup and project
 
