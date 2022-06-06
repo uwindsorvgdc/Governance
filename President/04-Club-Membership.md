@@ -4,12 +4,12 @@
 
 ## §1 Definitions
 
-2. Elligible Member shall mean either an Undergraduate Student and the University of Windsor who is not an Executive of Board Member, or someone who was a General Member, Board Member, or Executive of the VGDC when that person was an Undergraduate Student, ceased to be an Undergraduate Student not longer than 12 months ago, and during that period has continuously been a General Member of the VGDC.
+2. Elligible Member shall mean either an Undergraduate Student at the University of Windsor who is not an Executive or Board Member, or who was a General Member, Board Member, or Executive of the VGDC when that person was an Undergraduate Student, ceased to be an Undergraduate Student not longer than 12 months ago, and during that period has continuously been a General Member of the VGDC.
 3. The Discord shall mean the Official Discord Server of the VGDC or such other Primary Forum of Communication as may be Designated by the Head of Community, in which the VGDC primarily conducts Business.
 4. Moderator shall mean the Head of Community or any person appointed by the Head of Community as a Moderator.
-5. Moderation Policy shall include Rules set by the Moderators or the Head of Community, or Regulation made by the Head of Community reguarding conduct on the Discord or Moderation of the Discord
+5. Moderation Policy shall include Rules set by the Moderators or the Head of Community, or Regulations made by the Head of Community reguarding conduct on the Discord or Moderation of the Discord
 6. Discriminatory Policy shall mean a Moderation Policy that is inconsistent with Article 1 - Section 4 of the VGDC Constitution, or that is applied by the Moderators in a manner inconsistent with Article 1 - Section 4 of the VGDC Constitution
-7. "Real Name" shall mean the name of a person which is the name on Record with the Unviersity of Windsor or such other name as the President or a Delegate has a
+7. "Real Name" shall mean the name of a person which is the name on Record with the Unviersity of Windsor or such other name as the President or a Delegate has 
 authorized that person to use in the context of official Business of the VGDC.
 8. A Ban shall mean a punitive measure taken by a Moderator and designed or intended to remove a person from the Discord and prevent that person from rejoining and shall include both temporary and permanent bans.
 
@@ -20,7 +20,7 @@ authorized that person to use in the context of official Business of the VGDC.
 11. Notwithstanding (10), a person who is removed by an action of a Moderator for violation of or as a result of the application of a Discriminatory Policy is not dismissed as a Member and retains privileges of membership after being removed.
 12. A person for whom a Ban is issued and who attempts to, by circumvention or by alternative account, rejoin the Discord shall not be admitted as a member unless the Head of Community or a delegate thereof may rescind the Ban, unless the Ban was issued for violation of or as a result of the application of a Discriminatory Policy.
 13. Notwithstanding (12), a person for whom a ban was so rescinded on application of a Discriminatory Policy shall not be admitted as a member as a result of such a s rescindment.
-14. Any Elligible Member who is admitted in a manner consistent with this section shall, through the means available, ensure that their display name is accurately set to their Real Name as defined by this Regulation. Any person who does not comply with this section shall not be considered a General Member of the VGDC.
+14. Any Elligible Member who is admitted in a manner consistent with this section shall, through the means available, ensure that their display name is accurately set to their Real Name as defined by this Regulation. Any person who does not comply with this section shall not be considered a General Member of the VGDC and shall not be availed of the privileges of that membership.
 
 ## §3 Membership by Special Exemption
 
@@ -34,3 +34,8 @@ authorized that person to use in the context of official Business of the VGDC.
 19. For greater certainty, a person so authorized who takes reasonable steps to comply with §2(14) with respect to the authorized name shall be considered to have been granted a special exemption for the purposes of Operations Regulation 1 or its successors made by the Head of Operations or by the Board, and for Board Regulations 4 and 5 or their successors made by the Board.
 20. The President or person designated shall document with the Head of Communtiy all persons who are authorized to use a substitute name and that authorized name, for the purposes of applying Operations Regulation 1 and Board Regulations 4 and 5, but the reasons for the authorization shall not be so documented. 
 21. Authorization granted by this section may be rescinded by the President if the President believes, on reasonable, non-discriminatory grounds, that the use of the Authorized Name is no longer justified. A person for which a rescindment is issued shall be notified promptly of the decision and have a right to appeal to the Board.
+
+## §5 Appeals to the Board
+
+22. Any person who has made an application to the President or a person designated by the president, where such application has been denied, the person may, if they have a reasonable, good faith belief, that the denial was for reasons that are inconsistent with Article 1, Section 4 of the VGDC Constitution, appeal that application to the Board of the VGDC, or any Committee Established by the Board of the VGDC for the purpose of handling violations of Article 1, Section 4.
+23. For the purposes of this section, an application so made which has been unanswered for an unreasonable period of time shall be deemed denied.
