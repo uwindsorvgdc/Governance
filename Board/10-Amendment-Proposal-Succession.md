@@ -20,7 +20,7 @@
 6. A new clause is hereby added to Article II, Section 5, following clause 4, numbered as clause 5, which shall read as follows:
 - The Board may by regulation set the order of succession for the position of Treasurer of the VGDC if that position may be vacant.
 7. A new subclause of clause 5 of Article II, Section 5, is hereby added, which shall read as follows:
-- Until such time as such a regulation shall be made, the succession order for the Position of Treasurer shall be: Vice President, Head of Events, Head of Development, Head of Operations, Head of Community. 
+- Until such time as such a regulation shall be made, the succession order for the Position of Treasurer shall be: Head of Events, Head of Development, Head of Operations, Head of Community. 
 8. A new subclause of clause 5 of Article II, Section 5, is hearby added, which shall read as follows:
 - Where the vacancy for Tresurer is the result of a tie on a ballot for the position of Treasurer, no person shall become Treasurer under this clause until the Board has succesfully resolved the tie.
 9. A new subclause of clause 5 of Article II, Section 5, is hearby added, which shall read as follows:
