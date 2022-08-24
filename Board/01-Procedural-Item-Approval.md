@@ -14,8 +14,8 @@
     * Establishment of any requirements for holding a Board Postion, Executive Position, or other position of authority established by the Board,
     * Any other action which the Board may prescribe to be a Substantive Action,
     * Any action which the presiding officer may declare on a case by case basis to be a Substantive Action.
-4. Presiding Officer: The Presiding Officer is the President when the Board is not in a meeting, or when the Board is in a meeting and the President is in attendance, another member which the President may declare to preside, or a member set by the constitution to preside.
-5. Speaker: The Speaker is either the Speaker Appointed for a meeting for the duration of a meeting, or otherwise the Presiding Officer
+4. The Term "Presiding Officer" Shall have the meaning as in Board Regulation 15
+5. The Term "Speaker" Shall have the meaning as in Board Regulation 15
 6. For greater certainty, the following actions are generally considered procedural actions: 
     * Convening a Meeting,
     * Appointing a Speaker,
