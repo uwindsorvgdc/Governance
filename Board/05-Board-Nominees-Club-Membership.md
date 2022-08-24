@@ -4,11 +4,11 @@
 
 ## Definitions
 
-2. General Member shall mean a General Member of the VGDC as defined by and admitted by the President of the VGDC.
+2. General Member shall have the meaning as in Regulation 15
 
-3. Club Member shall mean a Board Member, Executive Member, or General Member.
+3. Club Member shall have the meaning as in Regulation 15
 
-4. VGDC Discord shall mean the official Discord Server of the VGDC, or such other primary forum of communication as designated by the Head of Community
+4. VGDC Discord shall have the meaning as in Regulation 15
 
 ## Restriction
 

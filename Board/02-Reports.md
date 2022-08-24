@@ -4,8 +4,8 @@
 
 ## Definitions
 
-2. Report: A report shall mean an audio, visual, or textual report made by a member of the Board to any other Member of the Board, or by a non-member to a Member of the Board when the report concerns operations of the Board, and may include reports made by multiple members and/or made to multiple members.
-3. Private Discussion: A private discussion is a discussion of a report, including the report itself, taken in a location where members of the Board other than the members/non-members involved in the report are reasonably unlikely to overhear or otherwise intervene in the discussion without deliberately attempting to do so, and that is not tracked in the official minutes of a meeting.
+2. The term "Report" shall have the meaning as in Board Regulation 15
+3. The term "Private Discussion" shall have the meaning as in Board Regulation 15
 
 ## Rule
 
