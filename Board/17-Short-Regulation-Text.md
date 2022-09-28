@@ -31,4 +31,4 @@ Regulations that record proposed amendments to the VGDC Constitution, governed b
 
 Regulations that are not categorized above, usually pertaining to a one-off action the Board takes or instructs to be taken.
 
-1. An election was ordered for the positions of Head of Operations, Head of Community, and Head of Development, on the date of September 25th, 2022. Ref: [Board Regulation 14](https://github.dev/uwindsorvgdc/Governance/blob/main/Board/14-Board-Byelection-2022.md).
+1. [Repealed: 2022-10-02]
