@@ -33,7 +33,8 @@ Whereas the Board wishes to conduct fair and open elections for members of the B
 
 1. Each Club Member shall be entitled to one vote provided that, at the time of the end of the voting period, their membership can, by the Head of Operations or a person designated by them, be verified as a club be verified as a club Member either by the President of the VGDC or by review of the members list of the VGDC Discord. The Head of Operations shall require that, on submission of any balot, the member make an attestation that they are an eligible member and that they have a good faith belief that they are a member of the VGDC.
 2. Any Member the Board may hold in contempt shall not be entitled to any vote notwithstanding anything else in this section.
-3. All ballots issued by the Head of Operations shall be returned within 48 hours of issuance.
+3. All ballots issued by the Head of Operations shall be returned within 48 hours of issuance, or such an earlier time as the Head of Operations may by regulation require.
+4. The Head of Operations shall issue no regulation further constraining or expanding entitlement to vote.
 
 ## §5 Contempt for Violation of Attestation
 
@@ -41,3 +42,7 @@ Whereas the Board wishes to conduct fair and open elections for members of the B
 2. Any Order issued under this section shall be repealed 1 year after they are issued or on some other earlier date unless reissued by the Board at that time. Any order reissued under this clause shall be repealed 1 year after they are reissued or on some other earlier date, unless reissued again.
 3. The Board may, at any time, lift an order of contempt.
 
+## §6 Appeals to the Board
+
+1. Any person who has been denied nomination or entitlement to a vote by the Head of Operations or a designate on grounds they believe in good faith are not permitted by this or any other Boad Regulation may apply for review of the denial by the Board within 3 days of the end of any nomination period, or 7 days following the return of ballots.
+2. If the appeal is heard prior to the issuance of ballots, the Board may order the member appear on the ballot, but otherwise may designate relief due if the person was found to have been invalidly defined either nominiation or entitlement to vote.
