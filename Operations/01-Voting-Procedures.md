@@ -10,9 +10,7 @@ Set by Connor Horman, Vice President, Acting in the Position of Head of Operatio
 
 ## §2 Voting
 
-3. Each Member of the Club as defined by the President who is a Member of the Official Discord Server of the VGDC or another such primary forum of communication defined by the Head of Communications at the time an election takes place and has set their display name to their name on Record with the University of Windsor, or has recieved an exemption from this policy by the President, documented with the Head of Operations shall be entitled to 1 vote. 
-4. Ballots shall be Returned 48 hours following the issuance thereof after which counting shall take place as described below. 
-5. After ballots are counted, the results shall be announced on the VGDC, and the winners of each 
+Superseded by Board Regulation 18
 
 ## §3 Counting
 
