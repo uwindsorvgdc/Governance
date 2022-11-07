@@ -10,7 +10,7 @@ Set by Connor Horman, Vice President, Acting in the Position of Head of Operatio
 
 ## §2 Voting
 
-Superseded by Board Regulation 18
+Superseded by Board Regulation 18.
 
 ## §3 Counting
 
