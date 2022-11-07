@@ -4,5 +4,5 @@
 
 ## §1 Succesion Orders
 
-1. The Succession order for President shall be: Vice President, Treasurer, Head of Operations, Head of Community, Head of Events, Head of Development.
+1. The Succession order for President shall be: Vice President, Head of Operations, Head of Community, Head of Events, Head of Development.
 2. The Succession order for Treasurer shall be: Head of Events, Head of Development, Head of Operations, Head of Community.
